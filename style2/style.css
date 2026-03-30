@@ -1,0 +1,106 @@
+#page_container3 {
+    width: 1700px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+
+#header3 {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+#logo3 {
+    width: 300px;
+    padding-left: 35px;
+    float: left
+}
+
+#logo3 img {
+    width: 175px;
+}
+
+#page_title3 {
+    color: rgba(248, 183, 5, 0.863);
+}
+
+#page_title3 h1 {
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+#intro_block3 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.863);
+}
+
+#intro_block3 a {
+    text-decoration: none;
+    font-size: 25px;
+    color: rgba(248, 183, 5, 0.863);
+    padding: 14px 30px;
+    display: inline-block;
+}
+
+.heading {
+    text-align: center;
+    font-size: 30pt;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    clear: both;
+    overflow: hidden;
+    border: 1px solid black;
+    width: 1700px;
+}
+
+footer li {
+    list-style-type: none;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgba(248, 183, 5, 0.863);
+}
+
+#queenstown_links {
+    width: 300px;
+    float: left;
+}
+
+#queenstown_links h4,
+#menu h4 {
+    padding-left: 40px;
+}
+
+#menu {
+    width: 300px;
+    float: left;
+    padding-left: 100px;
+}
+
+#socials {
+    width: 300px;
+    float: right;
+    padding-left: 100px;
+}
+
+#socials ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+#socials li {
+    padding: 0 12px 0 0;
+    display: inline;
+}
